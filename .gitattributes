@@ -1,0 +1,5 @@
+Lab_2_Outputs/corelois_contours.gif filter=lfs diff=lfs merge=lfs -text
+Lab_2_Outputs/height_contours.gif filter=lfs diff=lfs merge=lfs -text
+Lab_2_Outputs/u_wind_contours.gif filter=lfs diff=lfs merge=lfs -text
+Lab_2_Outputs/v_wind_contours.gif filter=lfs diff=lfs merge=lfs -text
+Lab_2_Outputs/total_wind_contours.gif filter=lfs diff=lfs merge=lfs -text
